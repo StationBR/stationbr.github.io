@@ -1,29 +1,18 @@
-## Welcome to GitHub Pages
+## StationBR Group
 
-You can use the [editor on GitHub](https://github.com/StationBR/stationbr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Seja bem vindo(a) ao site do grupo* [NotifyDevs](https://t.me/NotifyDevs)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Leia as regras para entrar em nossa organização de programadores brasileiros
+### Regras
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+OBS: Leia com atenção!
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1 -- Tem que saber pelomenos o basico de programar
+2 -- não pegar ideia dos outros
+3 -- respeitar o colega de grupo
+4 -- usar o seu conhecimento para coisas boas
+5 -- utilizar os recursos do grupo somente para ajuda
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
